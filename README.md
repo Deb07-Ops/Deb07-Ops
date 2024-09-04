@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debjit Mondal</h1>
-<h3 align="center">A passionate developer and Penetration Tester from India</h3>
+<h3 align="center">A passionate Penetration Tester from India</h3>
 
 ---
 
@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-I am a Pentester as well as a developer with a deep passion for exploring the fascinating world of cybersecurity, vulnerabilities, and malware detection. My journey in the digital realm has been driven by a relentless curiosity to understand and secure complex systems. Whether it's identifying vulnerabilities in a network or creating robust, secure applications, I thrive on the challenge of staying ahead of potential threats.
+I am a Pentester with a deep passion for exploring the fascinating world of cybersecurity, vulnerabilities, and malware detection. My journey in the digital realm has been driven by a relentless curiosity to understand and secure complex systems. Whether it's identifying vulnerabilities in a network or creating robust, secure applications, I thrive on the challenge of staying ahead of potential threats.
 
 - 🔍 I specialize in finding vulnerabilities before they can be exploited.
 - 💡 I enjoy blending development skills with cybersecurity knowledge to build secure and efficient systems.
