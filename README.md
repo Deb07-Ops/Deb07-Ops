@@ -25,7 +25,7 @@ I am a Pentester with a deep passion for exploring the fascinating world of cybe
 
 - 📫 How to reach me **dymtry.mail02@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1t9WKA1djX3STSmySzMbBL1GMpeT2FBxw2CfFBLvRkVU/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1etlDMfNvoW2gwse_Uk-T-aTkP3HQtQBu/edit?usp=sharing&ouid=101093315381138729836&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I'm just a few vulnerabilities away from turning my passion into a profession!**
 
