@@ -19,13 +19,11 @@ I am a Pentester with a deep passion for exploring the fascinating world of cybe
 
 ---
 
-- I worked on this one Recently [VarFaud](https://github.com/Deb07-Ops/VarFaud)
-
 - 🌱 I’m currently learning **Malware Analysis, Coding Processes using Win32 API, and Cloud Security**
 
-- 💬 Ask me about **React, Cybersecurity, Vulnerabilities, System Processes**
+- 💬 Ask me about **Cybersecurity, Vulnerabilities, System Processes**
 
-- 📫 How to reach me **debjitm03@gmail.com**
+- 📫 How to reach me **dymtry.mail02@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1t9WKA1djX3STSmySzMbBL1GMpeT2FBxw2CfFBLvRkVU/edit)
 
